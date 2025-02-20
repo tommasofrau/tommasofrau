@@ -1,4 +1,4 @@
-### Hi, I'm [Tommaso Frau] 👋  
+### Hi, I'm Tommaso Frau 👋  
 
 🎓 Future Computer Science student | 📚 Learning Data Structures & Algorithms  
 
