@@ -2,8 +2,6 @@
 
 I am a student of  computer, electronics and communications engineering student at UniTN.
 
-### Connect with me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tommasofrau)  
 
 
 <!---
